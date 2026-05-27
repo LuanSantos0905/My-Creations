@@ -1,2 +1,21 @@
-# My-Creations
-I am a student of systems analysis and development, these are my first projects
+<!DOCTYPE html>
+
+<head>
+
+<title>Minha primeira Página Simples</title>
+</head>
+
+<body>
+
+<h1>Bem-vindo à minha primeira página simples</h1>
+
+<p>Esta é uma página HTML criada por Luan Santos, Estudante de Análise e Desenvolvimento de Sistemas.</p>
+
+<p><i>Me chamo Luan dos Santos Nascimento, tenho atualmente 24 anos, Trabalho atualmente no Exército Brasileiro, mais especificamente no 2º Batalhão de Infantaria Aeromóvel.
+Estou no 2º Periodo da faculdade, porém, pretendo me especializar em phyton e JavaScript.</i></P>
+
+<p>Podemos modificar o conteúdo!</p>
+
+</body>
+
+</html>
